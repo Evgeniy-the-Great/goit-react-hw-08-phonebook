@@ -1,0 +1,19 @@
+.regesterEmail {
+  color: blueviolet;
+  font-weight: 500;
+}
+
+.navList {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.navLink {
+  text-decoration: none;
+  color: blueviolet;
+  text-transform: uppercase;
+  font-weight: 500;
+  cursor: pointer;
+}

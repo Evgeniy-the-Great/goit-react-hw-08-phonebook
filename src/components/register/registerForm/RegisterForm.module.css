@@ -1,0 +1,31 @@
+.registerForm {
+  margin-top: 50px;
+}
+
+.registerLabel {
+  display: flex;
+  flex-direction: column;
+  /* text-align: center; */
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+  font-size: 15px;
+  color: blueviolet;
+}
+
+.registerBtn {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  margin-top: 10px;
+}
+
+.registerInput::placeholder {
+  color: teal;
+  font-size: 12px;
+}
+
+.registerInput {
+  border-radius: 5px;
+  border: 1px solid blueviolet;
+}

@@ -1,0 +1,34 @@
+header {
+  background-color: lightgray;
+  border-bottom: 1px solid blueviolet;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width: 1020px;
+  margin: 0 auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+.headerLogo {
+  fill: teal;
+  cursor: pointer;
+}
+
+.hederTitle {
+  margin: 0;
+  margin-left: 10px;
+  font-weight: 700;
+  font-size: 24px;
+  color: blueviolet;
+}
